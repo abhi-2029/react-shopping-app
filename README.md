@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+[https://react-shopping-app-mu.vercel.app/](https://react-shopping-app-mu.vercel.app/)
 
 ## Features
 
